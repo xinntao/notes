@@ -11,6 +11,6 @@
 
 `source activate <env_name>`
 
-`deactivate`
+`source deactivate`
 
 [reference](https://zhuanlan.zhihu.com/p/32925500)
